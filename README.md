@@ -2,5 +2,5 @@
 ## [Link to Instructions](https://drive.google.com/file/d/1C2XJAM7lkqgYKahZSKwaLSoCflPb4290/view?pli=1)
 <details>
 <summary>How does Recursive Functions correlate to Merge Sorting?</summary>
-# :shrug: its being added later why are u looking rn lmao
+- :shrug: its being added later why are u looking rn lmao
 </details>
