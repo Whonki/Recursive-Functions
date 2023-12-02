@@ -10,8 +10,15 @@
 <details>
     <summary>Factorial</summary>
 </details>
-
-
+<details>
+    <summary>Fibbonacci</summary>
+</details>
+<details>
+    <summary>Fibbonacci Sum</summary>
+</details>
+<details>
+    <summary>Fractal Iteration</summary>
+</details>
 </details>
 <details>
 <summary>How does Recursive Functions correlate to Merge Sorting?</summary>
