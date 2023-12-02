@@ -1,4 +1,8 @@
-# Recursive-Functions for CS 30.
+# Instructions 
+
+Because this is an assignment for Computer Science 30, under 'Recursive Functions 1', there were instructions given. 
+[For links to instructions, click here.](https://drive.google.com/file/d/1C2XJAM7lkqgYKahZSKwaLSoCflPb4290/view?pli=1)
+
 <details>
 <summary>Images for all Questions</summary>
 
@@ -29,7 +33,3 @@
 <summary>How does Recursive Functions correlate to Merge Sorting?</summary>
 - :shrug: its being added later why are u looking rn lmao
 </details>
-
-# Instructions 
-
-[For links to instructions, click here.](https://drive.google.com/file/d/1C2XJAM7lkqgYKahZSKwaLSoCflPb4290/view?pli=1)
