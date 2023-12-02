@@ -5,6 +5,8 @@ Because this is an assignment for Computer Science 30, under 'Recursive Algorith
 
 <details>
 <summary>Images for all Questions</summary>
+
+# Questions
 <details>
     <summary>Question 1</summary>
     - meow
@@ -48,7 +50,9 @@ Because this is an assignment for Computer Science 30, under 'Recursive Algorith
 </details>
 
 <details>
-<summary>Types of Functions in Recursive Algorithms.</summary>
+<summary>Types of Functions</summary>
+
+# Types of Functions in Recursive Algorithms.
 <details>
     <summary>Factorial</summary>
     - meow
@@ -68,6 +72,8 @@ Because this is an assignment for Computer Science 30, under 'Recursive Algorith
 </details>
 
 <details>
-<summary>How does Recursive Functions correlate to Merge Sorting?</summary>
+<summary>Recursive Function's Correlation With Sorting Algorithms</summary>
+
+#How does Recursive Functions correlate to Merge Sorting?
 - :shrug: its being added later why are u looking rn lmao
 </details>
