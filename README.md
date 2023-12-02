@@ -6,6 +6,10 @@
 # This is here.
 </details>
 <details>
+<summary>Types of Functions in Recursive Algorithms.</summary>
+
+</details>
+<details>
 <summary>How does Recursive Functions correlate to Merge Sorting?</summary>
 - :shrug: its being added later why are u looking rn lmao
 </details>
