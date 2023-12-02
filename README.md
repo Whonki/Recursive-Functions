@@ -5,8 +5,46 @@ Because this is an assignment for Computer Science 30, under 'Recursive Algorith
 
 <details>
 <summary>Images for all Questions</summary>
-
-# This is here.
+<details>
+    <summary>Question 1</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 2</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 3</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 4</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 5</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 6</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 7</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 8</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 9</summary>
+    - meow
+</details>
+<details>
+    <summary>Question 10</summary>
+    - meow
+</details>
 </details>
 
 <details>
