@@ -10,15 +10,19 @@
 <details>
     <summary>Factorial</summary>
 </details>
+- meow
 <details>
     <summary>Fibbonacci</summary>
 </details>
+- meow
 <details>
     <summary>Fibbonacci Sum</summary>
 </details>
+- meow
 <details>
     <summary>Fractal Iteration</summary>
 </details>
+- meow
 </details>
 <details>
 <summary>How does Recursive Functions correlate to Merge Sorting?</summary>
