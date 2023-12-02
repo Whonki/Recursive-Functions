@@ -75,5 +75,6 @@ Because this is an assignment for Computer Science 30, under 'Recursive Algorith
 <summary>Recursive Function's Correlation With Sorting Algorithms</summary>
 
 #How does Recursive Functions correlate to Merge Sorting?
+
 - :shrug: its being added later why are u looking rn lmao
 </details>
