@@ -7,6 +7,10 @@
 </details>
 <details>
 <summary>Types of Functions in Recursive Algorithms.</summary>
+<details>
+    <summary>Factorial</summary>
+</details>
+
 
 </details>
 <details>
