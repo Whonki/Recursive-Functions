@@ -3,6 +3,13 @@
 Because this is an assignment for Computer Science 30, under 'Recursive Algorithms 1', there were instructions given. 
 [For links to instructions, click here. (MUST HAVE AN RVSCHOOLS ACCOUNT!)](https://drive.google.com/file/d/1C2XJAM7lkqgYKahZSKwaLSoCflPb4290/view?pli=1)
 
+# Tasks
+
+- Draw 10 control flow diagrams
+- Create 4 Recursive Functions + explain all 4 of them.
+- Explain the connection between Recursive Functions and Merge sorting.
+
+# Details
 <details>
 <summary>Images for all Questions</summary>
 
