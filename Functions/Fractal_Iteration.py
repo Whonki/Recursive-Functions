@@ -11,7 +11,10 @@ def fractal(x, y, size, angle, n):
   #erase middle
     pygame.draw.line(screen, "white", [x-size/3*math.cos(angle), y-size/3*math.sin(angle)], [x+size/3*math.cos(angle), y+size/3*math.sin(angle)], 2)
   #recursion
-    return fractal(x-size*2/3*math.cos(angle), y-size*2/3*math.sin(angle), size/3, angle, n-1), fractal(x+size*2/3*math.cos(angle), y+size*2/3*math.sin(angle), size/3, angle, n-1), fractal((x-size/3*math.cos(angle) + x+size*1/2*math.cos(angle-math.pi/2))/2, (y-size*math.sin(angle)/3+y+size*1/2*math.sin(angle-math.pi/2))/2, size/3.225, angle - (math.pi/3-math.pi/50), n-1), fractal((x+size/3*math.cos(angle) + x+size*1/2*math.cos(angle-math.pi/2))/2, (y+size*math.sin(angle)/3 + y+size*1/2*math.sin(angle-math.pi/2))/2, size/3.225, angle + (math.pi/3-math.pi/50), n-1)
+    return fractal(x-size*2/3*math.cos(angle), y-size*2/3*math.sin(angle), size/3, angle, n-1), fractal(x+size*2/3*math.cos(angle), y+size*2/3*math.sin(angle), size/3, angle, 
+    n-1), fractal((x-size/3*math.cos(angle) + x+size*1/2*math.cos(angle-math.pi/2))/2, (y-size*math.sin(angle)/3+y+size*1/2*math.sin(angle-math.pi/2))/2, 
+    size/3.225, angle - (math.pi/3-math.pi/50), n-1), fractal((x+size/3*math.cos(angle) + x+size*1/2*math.cos(angle-math.pi/2))/2, (y+size*math.sin(angle)/3 + 
+    y+size*1/2*math.sin(angle-math.pi/2))/2, size/3.225, angle + (math.pi/3-math.pi/50), n-1)
   #recursion end
   else:
     return 0;
